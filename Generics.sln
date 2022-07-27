@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{673E5CCA-D4FD-43F9-8E82-7DDB57127CA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOriented", "ObjectOriented\ObjectOriented.csproj", "{44AC51B9-5FF0-49C8-B6BD-A7F3BCFC504B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{673E5CCA-D4FD-43F9-8E82-7DDB57127CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{673E5CCA-D4FD-43F9-8E82-7DDB57127CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{673E5CCA-D4FD-43F9-8E82-7DDB57127CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AC51B9-5FF0-49C8-B6BD-A7F3BCFC504B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AC51B9-5FF0-49C8-B6BD-A7F3BCFC504B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AC51B9-5FF0-49C8-B6BD-A7F3BCFC504B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AC51B9-5FF0-49C8-B6BD-A7F3BCFC504B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
